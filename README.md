@@ -1,2 +1,2 @@
-# Reiz
- Reiz Tech .Net Task
+# Reiz Tech .Net Task
+ By Robertas Osipovas
