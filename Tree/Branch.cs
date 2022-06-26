@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace Tree
 {
-    //Rather a node then a branch but whatever
     internal class Branch
     {
         public List<Branch> branches { get; set; }
